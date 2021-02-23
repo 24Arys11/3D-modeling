@@ -1,1 +1,1 @@
-# 3D-modeling homeworks
+# 3D-modeling course for 3D printing.
