@@ -1,7 +1,7 @@
-3DMP -  Homework no. 1
-Soft deadline: TBA
-Hard deadline: TBA
-Tasks:
+# 3DMP -  Homework no. 1
+* Soft deadline: TBA
+* Hard deadline: TBA
+# Tasks:
 Install Fusion 360 on your laptop
 Create an Autodesk student account and log yourself in using Fusion 360 on your laptop
 Install Prusa Slicer on your laptop
