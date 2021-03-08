@@ -20,4 +20,5 @@
 5. Use a circular pattern to add details on the top, neck and base of the pieces.
 6. The SVG is a little bit stylized. The chess pieces contain smaller parts that are not connected. For the full grade, you need to find a way to make each chess piece only one body!
 7. Slice all the pieces in PrusaSlicer.
+
 BONUS: Make the board as well. Multiply the pieces and align them on the board. Add appearance (videos about appearance can be found in the course).
