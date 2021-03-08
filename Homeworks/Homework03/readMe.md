@@ -1,7 +1,7 @@
 # 3DMP -  Homework no. 3
-- Soft deadline: 21.03.2021 | 23:59:59
-- Hard deadline:  24.03.2021 | 23:59:59 (50% of the grade) 
-- Tasks:
+* Soft deadline: 21.03.2021 | 23:59:59
+* Hard deadline:  24.03.2021 | 23:59:59 (50% of the grade) 
+* Tasks:
   1. Turn on capture history (the homework will not be graded if capture history is not turned on).
   2. Import an SVG (link here) and design a chess pieces set:
     * 1 pawn,
