@@ -4,12 +4,12 @@
 * Tasks:
 1. Turn on capture history (the homework will not be graded if capture history is not turned on).
 2. Import an SVG (link here) and design a chess pieces set:
- * 1 pawn,
- * 1 knight, 
- * 1 bishop,
- * 1 rook, 
- * 1 queen,
- * 1 king
+  - 1 pawn,
+  - 1 knight, 
+  - 1 bishop,
+  - 1 rook, 
+  - 1 queen,
+  - 1 king
 3. Use the SVG sketch to revolve the pieces: 
   * you need to take care when designing the knight; only the base should be revolved; find another solution for the horse part e.g: extrusion, fillet, etc.
   * when designing the bishop, revolve the part that doesn’t have the slit, and add the slit after.
