@@ -3,7 +3,7 @@
 * Hard deadline:  24.03.2021 | 23:59:59 (50% of the grade) 
 * Tasks:
 1. Turn on capture history (the homework will not be graded if capture history is not turned on).
-2. Import an SVG (link here) and design a chess pieces set:
+2. Import an SVG and design a chess pieces set: (link: https://drive.google.com/drive/folders/1hP3PDJ7wgEmkW3Iuby4fesoqEDkGd0BF)
     * 1 pawn,
     * 1 knight, 
     * 1 bishop,
