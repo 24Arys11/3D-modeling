@@ -3,14 +3,14 @@
 2. Design the [Scotch Yoke Mechanism](https://www.youtube.com/watch?v=HhX-8RyP214&ab_channel=SkylineTutorials) taking the course videos as reference (especially the slider crank mechanism; in this one can see why it’s important to use Fusion Rule Number 1)
 3. Choose ONE mechanism from the next list and design it in Fusion:
 
-  ..https://tinyurl.com/y8zgkzjq
-  ..https://tinyurl.com/ycxhnskp
-  ..https://tinyurl.com/ycc3mrls
-  ..https://tinyurl.com/ybxq84ko
-  ..https://tinyurl.com/y9uww3b8
-  ..https://tinyurl.com/y94sx6om
-  ..https://tinyurl.com/y7jvyma3
-  ..https://tinyurl.com/ydabljd6
+  ..https://tinyurl.com/y8zgkzjq..
+  ..https://tinyurl.com/ycxhnskp..
+  ..https://tinyurl.com/ycc3mrls..
+  ..https://tinyurl.com/ybxq84ko..
+  ..https://tinyurl.com/y9uww3b8..
+  ..https://tinyurl.com/y94sx6om..
+  ..https://tinyurl.com/y7jvyma3..
+  ..https://tinyurl.com/ydabljd6..
   
 Requirements for 2 and 3:
 
