@@ -1,4 +1,5 @@
 * Hard deadline:  07.04.2021 | 23:59:59
+* Tasks:
 1. Watch and understand the courses videos about Rotational to Linear Motion and Vice-Versa mechanisms (We recommend to model them on your own as well)
 2. Design the [Scotch Yoke Mechanism](https://www.youtube.com/watch?v=HhX-8RyP214&ab_channel=SkylineTutorials) taking the course videos as reference (especially the slider crank mechanism; in this one can see why it’s important to use Fusion Rule Number 1)
 3. Choose ONE mechanism from the next list and design it in Fusion:  
